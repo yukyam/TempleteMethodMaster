@@ -1,0 +1,2 @@
+# TempleteMethodMaster
+Templete Methodについてのコードです
