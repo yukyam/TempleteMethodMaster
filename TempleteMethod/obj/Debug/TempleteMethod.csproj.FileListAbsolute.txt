@@ -1,0 +1,6 @@
+c:\users\yuka\documents\visual studio 2015\Projects\TempleteMethod\TempleteMethod\bin\Debug\TempleteMethod.exe.config
+C:\Users\Yuka\documents\visual studio 2015\Projects\TempleteMethod\TempleteMethod\bin\Debug\TempleteMethod.exe
+C:\Users\Yuka\documents\visual studio 2015\Projects\TempleteMethod\TempleteMethod\bin\Debug\TempleteMethod.pdb
+C:\Users\Yuka\documents\visual studio 2015\Projects\TempleteMethod\TempleteMethod\obj\Debug\TempleteMethod.exe
+C:\Users\Yuka\documents\visual studio 2015\Projects\TempleteMethod\TempleteMethod\obj\Debug\TempleteMethod.pdb
+C:\Users\Yuka\documents\visual studio 2015\Projects\TempleteMethod\TempleteMethod\obj\Debug\TempleteMethod.csprojResolveAssemblyReference.cache
